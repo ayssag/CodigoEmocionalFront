@@ -1,0 +1,44 @@
+header {
+    width: 567px;
+    height: 71px;
+    display: flex;
+    align-items: center;
+    padding-top: 50px;
+    padding-left: 80px;
+}
+
+.header-texto {
+    width: 446px;
+    height: 66px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    margin: 0;
+    padding: 5px;
+}
+
+header img {
+    width: 101px;
+    height: 71px;
+    padding: 5px;
+}
+
+h1 {
+    width: 446px;
+    height: 66px;
+    font-family: "Nunito", sans-serif;
+    font-size: 36;
+    color: white;
+    font-weight: 500;
+
+}
+
+p {
+    width: 446px;
+    height: 66px;
+    font-family: "Helvetica", sans-serif;
+    font-size: 28;
+    color: white;
+    font-weight: normal;
+
+}
